@@ -1,7 +1,7 @@
 # CPNT-201-A1
 Ericson Rosario 
 
-Job: Write article on Animal Welfare
+Job: Write a blog post.
 
 Job description: Write an article on animal welfare that is has at least three main points and scholarly sources. 
 
